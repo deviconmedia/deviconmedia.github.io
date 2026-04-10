@@ -1,8 +1,46 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: "Dokumentasi Developer Iconmedia"
+description: "Dokumentasi resmi project, API, dan changelog sistem PT. Iconmedia Nusantara Abadi"
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: "https://developer.iconmedia.id"
 
+# Logo (opsional - jika ingin menampilkan logo di samping judul)
+# logo: "/assets/images/logo-iconmedia.png"
+
+# Search
+search_enabled: true
+search.button: true
+
+# Aux links (tautan tambahan di pojok kanan atas)
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "GitHub Iconmedia":
+    - "https://github.com/deviconmedia"
+
+# Footer
+footer_content: "Copyright &copy; 2026 PT. Iconmedia Nusantara Abadi. Dikelola oleh Tim Developer."
+
+# Color scheme (light atau dark)
+color_scheme: "light"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Kembali ke atas"
+
+# Footer navigation (opsional)
+gh_edit_link: true
+gh_edit_link_text: "Edit halaman ini di GitHub"
+gh_edit_repository: "https://github.com/username/username.github.io"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
+
+# Navigasi utama (mengatur urutan halaman di sidebar)
+nav_sort: "case_insensitive"  # atau "case_sensitive"
+
+# Callout (untuk kotak catatan seperti note, warning, dll)
+callouts:
+  highlight:
+    color: yellow
+  note:
+    color: blue
+  warning:
+    color: red
