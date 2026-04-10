@@ -1,5 +1,6 @@
 ---
 title: "HRIS Changelog"
+layout: home
 nav_order: 2
 description: "Human Resource Information System for Iconmedia"
 permalink: /hris/
