@@ -13,7 +13,7 @@ search.button: true
 
 # Aux links (tautan tambahan di pojok kanan atas)
 aux_links:
-  "GitHub Iconmedia":
+  "GitHub":
     - "https://github.com/deviconmedia"
 
 # Footer

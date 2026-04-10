@@ -1,8 +1,10 @@
 ---
-title: Changelog HRIS
+title: Changelog
 parent: HRIS
 nav_order: 3
 has_children: true
+layout: home
+
 ---
 # Daftar Perubahan (Changelog) HRIS
 
