@@ -6,7 +6,7 @@ description: "Dokumentasi Resmi Sistem & API PT. Iconmedia Nusantara Abadi"
 permalink: /
 ---
 
-# <img src="https://via.placeholder.com/40?text=Icon" alt="Logo Iconmedia" style="vertical-align: middle; margin-right: 10px;"> Dokumentasi Resmi Developer
+# <img src="assets/img/logo.jpeg" alt="Logo Iconmedia" style="vertical-align: middle; margin-right: 10px;"> Dokumentasi Resmi Developer
 ## PT. Iconmedia Nusantara Abadi
 
 Selamat datang di pusat dokumentasi resmi yang dikelola langsung oleh **Tim Developer PT. Iconmedia Nusantara Abadi**.
