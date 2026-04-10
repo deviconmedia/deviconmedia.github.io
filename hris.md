@@ -2,7 +2,7 @@
 title: "HRIS Changelog"
 nav_order: 2
 description: "Human Resource Information System for Iconmedia"
-# permalink: /
+permalink: /hris/
 has_children: true
 ---
 
