@@ -2,6 +2,7 @@
 title: Fitur HRIS
 parent: HRIS
 nav_order: 1
+layout: home
 ---
 
 ## List Fitur
