@@ -15,10 +15,6 @@ Di dalam portal ini tersedia berbagai tutorial, petunjuk penggunaan, referensi t
 
 Dokumentasi akan mencakup berbagai topik, seperti:
 
-- Panduan penggunaan aplikasi  
-- Tutorial fitur dan modul sistem  
-- Referensi teknis dan integrasi  
-- Prosedur operasional dan alur bisnis  
-- Troubleshooting dan solusi permasalahan umum  
+- Tutorial Backup & Sync Database antar Server.
 
 Portal tutorial ini akan terus diperbarui dan dikembangkan sesuai kebutuhan pengguna serta perkembangan sistem yang digunakan di perusahaan.
