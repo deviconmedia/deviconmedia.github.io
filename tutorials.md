@@ -1,5 +1,5 @@
 ---
-title: Tutorials
+title: TUTORIALS
 layout: home
 nav_order: 2
 description: "Pusat dokumentasi dan panduan aplikasi"

@@ -1,10 +1,8 @@
 ---
-title: Tutorial Backup & Sync Database Antar Server
+title: Tutorial Backup & Sync Database antar Server
+parent: TUTORIALS
+nav_order: 1
 layout: home
-nav_order: 2
-description: "Tutorial Backup & Sync Database Antar Server"
-permalink: /tutorial_backup_and_sync_database/
-# has_children: true
 ---
 
 # Backup & Sync Database Antar VPS
