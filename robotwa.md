@@ -13,6 +13,10 @@ Aplikasi pengiriman faktur iFiber via WhatsApp. Aplikasi ini memberikan kemudaha
 
 ## Langkah-langkah melakukan scan WA ke WhatsApp Gateway
 
-### Kunjungi aplikasi WA Gateway: [WA Nugasin](https://wa.nugasin.com/login). Login menggunakan email dan kata sandi.
+### 1. Kunjungi [https://wa.nugasin.com/login](https://wa.nugasin.com/login). Silakan Login menggunakan email dan kata sandi.
 
-<img src="assets/img/1.png" alt="step 1" style="vertical-align: middle; margin-right: 10px;">
+<img src="/assets/img/1.png" alt="step 1" style="vertical-align: middle; margin-right: 10px;">
+
+### 2. Pada menu **Device**, klik tombol tambah untuk menambahkan device baru.
+
+<img src="/assets/img/2.png" alt="step 1" style="vertical-align: middle; margin-right: 10px;">
