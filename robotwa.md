@@ -33,6 +33,6 @@ Aplikasi pengiriman faktur iFiber via WhatsApp. Aplikasi ini memberikan kemudaha
 
 <img src="/assets/img/5.png" alt="step 1" style="vertical-align: middle; margin-right: 10px;">
 
-### 6. Selanjutnya, hubungi Administrator untuk membuat akun baru di[Aplikasi RobotWA](<(https://robotwa.iconmedia.id)>)
+### 6. Selanjutnya, hubungi Administrator untuk membuat akun baru di [Aplikasi RobotWA](https://robotwa.iconmedia.id/)
 
-Jika ada kendala atau pertanyaan, hubungi kami di: dev.iconmedia@gmail.com
+### Jika ada kendala atau pertanyaan, hubungi kami di: dev.iconmedia@gmail.com
